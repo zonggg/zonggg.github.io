@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zonggg.github.io/</id>
     <title>Zongg</title>
-    <updated>2019-08-06T03:16:42.394Z</updated>
+    <updated>2019-08-15T03:28:35.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zonggg.github.io/"/>
     <link rel="self" href="https://zonggg.github.io//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://zonggg.github.io//images/avatar.png</logo>
     <icon>https://zonggg.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Zongg</rights>
+    <entry>
+        <title type="html"><![CDATA[蒜 味 蒸 汽 波]]></title>
+        <id>https://zonggg.github.io//post/suan-wei-zheng-qi-bo</id>
+        <link href="https://zonggg.github.io//post/suan-wei-zheng-qi-bo">
+        </link>
+        <updated>2019-08-15T03:19:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>蒸 汽 波 社 会 摇 和 嘻 哈</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>蒸 汽 波 社 会 摇 和 嘻 哈</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[湘潭]]></title>
         <id>https://zonggg.github.io//post/xiang-tan</id>
